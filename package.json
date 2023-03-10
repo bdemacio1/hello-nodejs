@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/bdemacio1/hello-nodejs/issues"
   },
-  "homepage": "https://github.com/bdemacio1/hello-nodejs#readme"
+  "homepage": "https://github.com/bdemacio1/hello-nodejs#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
