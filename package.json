@@ -1,0 +1,20 @@
+{
+  "name": "hello-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bdemacio1/hello-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bdemacio1/hello-nodejs/issues"
+  },
+  "homepage": "https://github.com/bdemacio1/hello-nodejs#readme"
+}
